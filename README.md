@@ -1,4 +1,4 @@
-# adf-widget-chart
+# aqy-widget-timeserie
 
 D3/C3 chart widget for the [angular-dashboard-framework](https://github.com/sdorra/angular-dashboard-framework).
 
@@ -20,7 +20,7 @@ npm install
 bower install
 ```
 
-#### Build the adf-widget-chart
+#### Build the aqy-widget-timeserie
 
 ```bash
 gulp
@@ -43,7 +43,7 @@ Include the script in your index.html and be sure it is loaded after [angular](h
 ```html
 <script type="text/javascript" src="bower_components/...d3....js"></script>
 <script type="text/javascript" src="bower_components/...c3....js"></script>
-<script type="text/javascript" src="bower_components/adf-widget-chart/dist/adf-widget-chart.min.js"></script>
+<script type="text/javascript" src="bower_components/aqy-widget-timeserie/dist/aqy-widget-timeserie.min.js"></script>
 ```
 
 Define a dependency for the module:

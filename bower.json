@@ -1,7 +1,7 @@
 {
-  "name": "adf-widget-chart",
-  "version": "0.1.1",
-  "main": "dist/adf-widget-chart.js",
+  "name": "aqy-widget-timeserie",
+  "version": "0.0.1",
+  "main": "dist/aqy-widget-timeserie.js",
   "ignore": [
     "bower.json",
     ".bowerrc",
@@ -20,7 +20,7 @@
     "adf-widget",
     "chart"
   ],
-  "description": "D3/C3 chart widget for the angular-dashboard-framework",
+  "description": "Chart widget for the Aqylon Dashboard",
   "dependencies": {
     "angular-dashboard-framework": "0.8.0",
     "d3": "3.5.0",
