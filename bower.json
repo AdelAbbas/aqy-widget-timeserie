@@ -1,6 +1,6 @@
 {
   "name": "aqy-widget-timeserie",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/aqy-widget-timeserie.js",
   "ignore": [
     "bower.json",
